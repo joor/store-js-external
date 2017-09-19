@@ -7,3 +7,5 @@ The library allows you to use Domain-Driven Design (DDD) on client-side as well 
 
 * Home Page: https://github.com/joor/store-js-external
 * Documentation: `<docs/index.rst>`_
+
+.. _Repository: http://martinfowler.com/eaaCatalog/repository.html
