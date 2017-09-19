@@ -1,0 +1,36 @@
+{
+  "name": "store",
+  "version": "0.7.1",
+  "description": "The Store.js is a super lightweight implementation of Repository pattern for relational data and composed nested aggregates. The library allows you to use Domain-Driven Design (DDD) on client-side as well as reactive programming.",
+  "main": "store.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "tests/testSuite.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joor/store-js-external.git"
+  },
+  "keywords": [
+    "repository",
+    "ddd",
+    "datastore",
+    "orm",
+    "rest",
+    "query object",
+    "unit of work"
+  ],
+  "author": "JOOR Inc. and contributors",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joor/store-js-external/issues"
+  },
+  "devDependencies": {
+    "intern-geezer": "^2",
+    "requirejs": "^2.3.3"
+  },
+  "homepage": "https://github.com/joor/store-js-external#readme"
+}
