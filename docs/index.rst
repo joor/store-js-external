@@ -619,6 +619,12 @@ Example of fast real-time aggregation using :
 .. _Query Object: http://martinfowler.com/eaaCatalog/queryObject.html
 
 
+Contributing
+============
+
+Please, use `Dojo Style Guide <https://dojotoolkit.org/reference-guide/1.10/developer/styleguide.html>`_ and `Dojo contributing workflow <https://github.com/dojo/meta/blob/master/CONTRIBUTING.md>`_.
+
+
 Indices and tables
 ==================
 
