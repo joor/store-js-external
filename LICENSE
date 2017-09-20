@@ -1,7 +1,7 @@
 Copyright (c) 2006-2011 JOOR Inc. and contributors
 
 Contributors:
-Ivan Zakrevsky
+Ivan Zakrevsky (lead contributor)
 The Dojo Foundation (concepts and approach of function when())
 Mozilla and Mozilla's contributors (polyfill)
 Taylor Hakes (promise-polyfill)
