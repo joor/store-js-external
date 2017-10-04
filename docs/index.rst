@@ -14,7 +14,7 @@ The library allows you to use Domain-Driven Design (DDD) on client-side as well 
 * Docs: TODO
 * Browse source code (canonical repo): https://github.com/joor/store-js-external
 * Get source code (canonical repo): ``git clone https://github.com/joor/store-js-external.git``
-* The main developed fork: https://github.com/emacsway/store
+* Edge (unstable) repo: https://github.com/emacsway/store
 
 * Article (in English) "`Implementation of the pattern Repository for browser's JavaScript <#>`_" TODO
 * Article (in Russian): "`Реализация паттерна Repository в браузерном JavaScript <https://emacsway.github.io/ru/javascript-and-repository-pattern/>`_"
