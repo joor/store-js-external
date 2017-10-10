@@ -1878,11 +1878,6 @@ define(['./polyfill'], function() {
                     self._setState(newObjectList);
                     self.observed().notify(aspect, obj);
                 };
-                for (var i = 0; i < Result.observedMethods.length; i++) {
-                    this._disposable = this._disposable.add(
-                        this._subject.observed().attach(Result.observedMethods[i], arrayObserver)
-                    );
-                }
                 for (var i = 0; i < Result.observedProcedures.length; i++) {
                     this._disposable = this._disposable.add(
                         this._subject.observed().attach(Result.observedProcedures[i], arrayObserver)
